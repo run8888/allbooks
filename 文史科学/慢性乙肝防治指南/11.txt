@@ -1,0 +1,39 @@
+  慢性乙肝防治指南   
+  抗病毒治疗应答       
+   
+ 
+    
+       
+        
+ 治疗应答包含多项内容，有多种分类方法。 
+　　(一) 单项应答 
+　　1．病毒学应答 (virological response) 指血清HBV DNA 检测不到 (PCR 
+                          法) 或低于检测下限，或较基线下降≥2 log10。 
+　　2．血清学应答 (serological response) 指血清HBeAg 转阴或HBeAg 血清学转换或HBsAg 
+                          转阴或HBsAg 血清学转换。 
+　　3．生化学应答 (biochemical response) 指血清ALT 和AST 恢复正常。 
+　　4．组织学应答 (histological response) 指肝脏组织学炎症坏死或纤维化程度改善达到某一规定值。 
+　　(二) 时间顺序应答 
+　　1. 初始或早期应答(initial or early response) 治疗12 周时的应答。 
+　　2．治疗结束时应答 (end-of-treatment response) 治疗结束时应答。 
+　　3．持久应答 (sustained response) 治疗结束后随访6 个月或12 个月以上，疗效维持不变，无复发。 
+　　4．维持应答 (maintained response) 在抗病毒治疗期间表现为HBV DNA 检测不到 
+                          (PCR 法)或低于检测下限，或ALT 正常。 
+　　5．反弹 (breakthrough) 达到了初始应答，但在未更改治疗的情况下，HBV DNA 水平重新升高，或一度转阴后又转为阳性，可有或无ALT 
+                          升高。有时也指ALT 和AST 复常后，在未更改治疗的情况下再度升高，但应排除由其他因素引起的ALT 和AST 
+                          升高。 
+　　6．复发 (relapse) 达到了治疗结束时应答，但停药后HBV DNA 重新升高或阳转，有时亦指ALT 
+                          和AST 在停药后的再度升高，但应排除由其他因素引起的ALT 和AST 升高。 
+　　（三）联合应答 (combined response) 
+　　1．完全应答(complete response, CR) HBeAg 阳性慢性乙型肝炎患者，治疗后ALT 
+                          恢复正常， HBV DNA 检测不出 (PCR 法) 和HBeAg 血清学转换； HBeAg 阴性慢性乙型肝炎患者，治疗后ALT 
+                          恢复正常， HBV DNA 检测不出 (PCR 法)。 
+　　2．部分应答(partial response, PR) 介于完全应答与无应答之间。如HBeAg 阳性慢性乙型肝炎患者，治疗后ALT 
+                          恢复正常，HBV DNA <105 拷贝/ml ，但无HBeAg 血清学转换。 
+　　3．无应答 (non- response, NR) 未达到以上应答者。 
+     
+    
+    
+    
+   
+ 
